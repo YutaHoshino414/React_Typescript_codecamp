@@ -1,4 +1,4 @@
-# React & TypeScript - Task-Notes App
+# React & TypeScript / Task-Notes App
 
 This project was bootstrapped with [Beginner's Tutorial](https://www.youtube.com/watch?v=FJDVKeh7RJI) on Youtube.
 
