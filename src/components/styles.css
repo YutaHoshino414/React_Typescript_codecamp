@@ -74,8 +74,14 @@
     font-size: 25px;
     cursor: pointer;
 }
+input.todo__single--text {
+    width: 50%;
+}
 
 @media (max-width: 1200px) {
+    input.todo__single--text {
+        width: 50%;
+    }
     .todo__single {
         width: 40%;
     }
